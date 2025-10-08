@@ -5,7 +5,7 @@ An intelligent multi-agent system for personalized daily task scheduling with ad
 ## Team
 
 - **Ali Mohammadi Ruzbahani** [30261140] - [@ruzbahani](https://github.com/ruzbahani)
-- **Shuvam Agarwala** [30290444] - [@ShuvamAgarwala](https://github.com/ShuvamAgarwala)
+- **Shuvam Agarwala** [30290444] - [@ShuvamAgarwala](https://github.com/Shuvam-Ruet)
 
 **Course:** SENG 696 - Agent-Based Software Engineering  
 **Instructor:** Professor Behrouz Far  
